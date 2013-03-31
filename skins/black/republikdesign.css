@@ -23,8 +23,8 @@
 #player #volumeSlider{ width:8px; background:url(sizerAndVol.png); }
 
 #playlist,#playlist .module,#playlist h3{ border-color:#333;}
-#playlist .module{  color:#333; background-color:#eee; }
-#playlist h3{ background:url(bar.jpg); color:#fff; background-color:#333;  }
-#playlist .even{background-color:#eee;}
-#playlist .odd{ background-color:#ddd;}
-#playlist .focus{ background-color:#666; color:#FFF;}
+#playlist .module{  color:#333; background-color:#000; }
+#playlist h3{ background:url(bar.jpg); color:#fff; background-color:#000;  }
+#playlist .even{background-color:#000;}
+#playlist .odd{ background-color:#000;}
+#playlist .focus{ background-color:#000; color:#FFF;}
